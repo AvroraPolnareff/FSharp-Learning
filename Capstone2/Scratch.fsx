@@ -24,7 +24,7 @@ let newAccount owner =
     
 let auditAs
     (operationName: string) (audit: Account -> string -> unit)
-    (operation: Account -> decimal -> Account) (amount: decimal) (account: Account) =
+    (operation: Account -> decimal -> Account)(account: Account) (amount: decimal)  =
         let totalAccount = operation account amount
         audit totalAccount operationName
     
