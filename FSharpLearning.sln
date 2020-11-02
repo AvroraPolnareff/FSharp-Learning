@@ -4,6 +4,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharpLearning", "FSharpLea
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Capstone2", "Capstone2\Capstone2.fsproj", "{19E1DBC1-BAE3-43A8-B75C-D88B9568B45A}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Scripts", "Scripts\Scripts.fsproj", "{4742289E-308B-4140-A8C2-AEF25D66B8C8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{19E1DBC1-BAE3-43A8-B75C-D88B9568B45A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19E1DBC1-BAE3-43A8-B75C-D88B9568B45A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19E1DBC1-BAE3-43A8-B75C-D88B9568B45A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4742289E-308B-4140-A8C2-AEF25D66B8C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4742289E-308B-4140-A8C2-AEF25D66B8C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4742289E-308B-4140-A8C2-AEF25D66B8C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4742289E-308B-4140-A8C2-AEF25D66B8C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
