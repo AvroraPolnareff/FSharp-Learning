@@ -10,7 +10,6 @@
         <Compile Include="Operations.fs" />
         <Compile Include="Auditing.fs" />
         <Compile Include="Program.fs" />
-        <None Include="Scratch.fsx" />
     </ItemGroup>
 
 </Project>
